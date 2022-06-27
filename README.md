@@ -2,7 +2,7 @@
 <h1 style="color: ghostwhite">ABOUT THE DATABASE</h1>
 <p>We are instructed to develop a completely functional university website which allows both student registration and administrative maintenance.</p>
 <p>
-    <code>Content</code>&emsp;&ensp;Capstone Project<br/>
+    <code>Content</code>&emsp;&ensp;Data for Capstone Project<br/>
     <code>Where</code>&emsp;&emsp;&ensp;SUNY College at Old Westbury<br/>
     <code>Course</code>&emsp;&emsp;Systems Design and Engineering<br/>
     <code>Professor</code>&ensp;Naresh Gupta<br/><br/>
